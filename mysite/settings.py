@@ -25,7 +25,7 @@ SECRET_KEY = '11g+@ztyl%3*d^&$0$2$%1jv7ru8+9dt#p9ry%i$9v$do*-!+_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'mhealy10.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'mhealy.pythonanywhere.com']
 
 
 # Application definition
